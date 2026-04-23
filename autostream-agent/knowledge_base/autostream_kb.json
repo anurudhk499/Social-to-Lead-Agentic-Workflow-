@@ -1,0 +1,54 @@
+{
+  "company": "AutoStream",
+  "tagline": "Automated video editing tools for content creators",
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic auto-editing tools",
+        "Email support"
+      ]
+    },
+    {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI captions",
+        "Advanced AI editing",
+        "Priority 24/7 support",
+        "Custom branding"
+      ]
+    }
+  ],
+  "policies": [
+    "No refunds after 7 days of purchase.",
+    "24/7 customer support is available only on the Pro plan.",
+    "Basic plan users get email support during business hours.",
+    "You can upgrade or downgrade your plan at any time.",
+    "Annual billing offers a 20% discount on both plans.",
+    "Free 7-day trial is available for the Pro plan."
+  ],
+  "faq": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports YouTube, Instagram, TikTok, and Twitter/X for direct publishing."
+    },
+    {
+      "question": "Can I cancel anytime?",
+      "answer": "Yes, you can cancel your subscription at any time. No cancellation fees."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes, AutoStream offers a 7-day free trial on the Pro plan. No credit card required."
+    },
+    {
+      "question": "What video formats are supported?",
+      "answer": "AutoStream supports MP4, MOV, AVI, and MKV input formats."
+    }
+  ]
+}
